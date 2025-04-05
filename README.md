@@ -36,7 +36,7 @@ ShareHub is an intuitive file transfer application designed to streamline the pr
 
 | Send File | Receive File |
 |-----------|-------------|
-| ![Send](media/image7.png) | ![Receive](media/image8.png) |
+| <img src="Image/sending.jpg" width="300" /> | <img src="Image/receiving.jpg" width="300" /> |
 
 ## 📂 File Structure
 ```
