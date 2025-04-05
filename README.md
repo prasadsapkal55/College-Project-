@@ -1,6 +1,6 @@
 # ShareHub - File Sharing Application
 
-![ShareHub Logo](media/image1.png)
+![ShareHub Logo](Image/icon.png)
 
 ## 📌 Overview
 ShareHub is an intuitive file transfer application designed to streamline the process of exchanging data between users over a network. Built with Python and Tkinter, it offers a user-friendly interface with features like light/dark mode, secure file transfers, and local database storage for file history.
