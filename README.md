@@ -32,7 +32,7 @@ ShareHub is an intuitive file transfer application designed to streamline the pr
 ## 🖥️ Screenshots
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode]<img src="Image/lightmode.jpg" width="300" />](Image/lightmode.jpg) | ![Dark Mode](media/image6.png) |
+| !<img src="Image/lightmode.jpg" width="300" />](Image/lightmode.jpg) | !<img src="Image/darkmode.jpg" width="300" />](Image/darkmode.jpg) |
 
 | Send File | Receive File |
 |-----------|-------------|
