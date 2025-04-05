@@ -1,5 +1,3 @@
-# ShareHub - File Sharing App 
-
 # ShareHub - File Sharing Application
 
 ![ShareHub Logo](media/image1.png)
