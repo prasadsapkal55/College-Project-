@@ -25,7 +25,7 @@ ShareHub is an intuitive file transfer application designed to streamline the pr
 2. **Steps**:
    ```bash
    git clone https://github.com/prasadsapkal55/College-Project-.git
-   cd ShareHub
+   cd College-Project-
    python main.py
    ```
 
