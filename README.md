@@ -1,9 +1,6 @@
 # ShareHub - File Sharing Application
 
 ![<img src="Image/icon.png" width="300" />](Image/icon.png)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
   [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
   [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)](https://docs.python.org/3/library/tkinter.html)
   [![SQLite](https://img.shields.io/badge/Database-SQLite-yellow)](https://sqlite.org)
