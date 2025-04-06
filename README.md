@@ -2,6 +2,8 @@
 
 ![<img src="Image/icon.png" width="300" />](Image/icon.png)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## 📌 Overview
 ShareHub is an intuitive file transfer application designed to streamline the process of exchanging data between users over a network. Built with Python and Tkinter, it offers a user-friendly interface with features like light/dark mode, secure file transfers, and local database storage for file history.
 
